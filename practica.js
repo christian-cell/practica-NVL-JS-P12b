@@ -22,6 +22,8 @@ function numerosPares(par){
 }
 
 numerosPares("par");
+
+numerosPares("par");
 numerosPares("par");
 numerosImpares("impar");
 numerosImpares("impar");
